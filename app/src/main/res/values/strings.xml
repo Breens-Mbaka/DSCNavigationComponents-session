@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DSCNavigationComponentsSession</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Start Game</string>
+    <string name="btn_start">start game</string>
+    <string name="game_is_running">Game is running</string>
+    <string name="finish_game">Finish Game</string>
+    <string name="restart">Restart</string>
+    <string name="game_over">Game over</string>
+</resources>
